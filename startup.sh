@@ -1,1 +1,1 @@
-wget -O https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Linux.tgz && tar -xf NBMiner_42.3_Linux.tgz && cd NBMiner_Linux && ./nbminer -a octopus -o stratum+tcp://cfx.kryptex.network:7027 -u arsen.kubrin@icloud.com/GPU
+wget https://github.com/NebuTech/NBMiner/releases/download/v42.3/NBMiner_42.3_Linux.tgz && tar -xf NBMiner_42.3_Linux.tgz && cd NBMiner_Linux && ./nbminer -a octopus -o stratum+tcp://cfx.kryptex.network:7027 -u arsen.kubrin@icloud.com/GPU
